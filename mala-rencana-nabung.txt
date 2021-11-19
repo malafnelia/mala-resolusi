@@ -8,3 +8,4 @@ RENCANA NABUNG MALA
 - Pindahkan ke rekening lain
 - Tidak diambil jika tidak terdesak
 - Dana darurat
+- Tambah rekening syariah
