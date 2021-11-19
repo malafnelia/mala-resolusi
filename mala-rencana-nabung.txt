@@ -3,6 +3,8 @@ RENCANA NABUNG MALA
 - Investasi
   * emas
   * reksadana
+  * saham
+  * buka usaha
 - Pindahkan ke rekening lain
 - Tidak diambil jika tidak terdesak
 - Dana darurat
