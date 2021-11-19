@@ -5,3 +5,4 @@ RENCANA NABUNG MALA
   * reksadana
 - Pindahkan ke rekening lain
 - Tidak diambil jika tidak terdesak
+- Dana darurat
