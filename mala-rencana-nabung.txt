@@ -4,8 +4,8 @@ RENCANA NABUNG MALA
   * emas
   * reksadana
   * saham
-  * buka usaha
 - Pindahkan ke rekening lain
 - Tidak diambil jika tidak terdesak
 - Dana darurat
-- Tambah rekening syariah
+- Rekening non syariah
+
