@@ -1,8 +1,8 @@
 # TERMS & CONDITIONS
 
-LINTASARTA CLOUDEKA USE AND ACCESS AGREEMENT
+## LINTASARTA CLOUDEKA USE AND ACCESS AGREEMENT
 
-I.	ACCEPTANCE OF TERMS – GENERAL
+### I.	ACCEPTANCE OF TERMS – GENERAL
 
 1.	The use of Lintasarta Cloudeka is subject to the terms and conditions (“T&C”) provided herein. By accessing and using Service Portal, the Customer agrees to be bound by this T&C and any modifications and amendments, which may be posted by Lintasarta on Service Portal from time to time.
 
