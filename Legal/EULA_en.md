@@ -54,15 +54,15 @@
 
 2.	In addition to any termination and restriction rights Lintasarta may have under this T&C, Lintasarta may terminate the Customer’s access to Service Portal without notice and in its own discretion in the occurrence of the following:
 
-a.	The Customer may materially violate any notice posted from time to time on Service Portal, any applicable law, rule or regulation relating to the use of the Lintasarta Service; or
+    a.	The Customer may materially violate any notice posted from time to time on Service Portal, any applicable law, rule or regulation relating to the use of the Lintasarta       Service; or
 
-b.	Any law, regulation, or governmental action renders all or any portion of the Service Portal (or the Customer’s use of the Lintasarta Service) unlawful or impracticable; or
+    b.	Any law, regulation, or governmental action renders all or any portion of the Service Portal (or the Customer’s use of the Lintasarta Service) unlawful or impracticable;     or
 
-c.	The Customer’s use of Service Portal impairs or threatens to impair the integrity or functionality of Lintasarta network in any manner; or
+    c.	The Customer’s use of Service Portal impairs or threatens to impair the integrity or functionality of Lintasarta network in any manner; or
 
-d.	If Lintasarta believes that the Customer has violated or acted inconsistently with the letter or spirit of this T&C.
+    d.	If Lintasarta believes that the Customer has violated or acted inconsistently with the letter or spirit of this T&C.
 
-e.	Customer is late to make payments for the Services as governed by this T&C, and Lintasarta shall not be liable for any risks arising from terminating and limiting access to the Service as a result.
+    e.	Customer is late to make payments for the Services as governed by this T&C, and Lintasarta shall not be liable for any risks arising from terminating and limiting access     to the Service as a result.
 
 3.	The Customer agrees that Lintasarta shall not be liable to the Customer or any third-party for any termination and restriction of the Customer’s access to Service Portal.
 
@@ -87,7 +87,6 @@ e.	Customer is late to make payments for the Services as governed by this T&C, a
 ### VI.	INDEMNITY
 
 The customers agree to indemnify, defend and hold harmless Lintasarta, its officers, directors, employees, agents, resellers, shareholders, licensors, suppliers, and third-party information providers for the service and all losses, expenses, damages, and expenses, including attorney's fees, resulting from any violation by the Customer of this T&C or asserted by any third party due to or arising out of the Customer’s use of or conduct on Service Portal.
-
 
 ### VII.	LINKS TO THIRD PARTY SITES
 
@@ -119,20 +118,20 @@ The customers agree to indemnify, defend and hold harmless Lintasarta, its offic
 
 1.	Customer database
 
-a.	For the proper and intended purposes of Service Portal and use of Lintasarta Service provided by Lintasarta concerning the Service Portal, the Customer must first register and open an account in Service Portal. In doing so, we may collect, store and use the following information:
+    a.	For the proper and intended purposes of Service Portal and use of Lintasarta Service provided by Lintasarta concerning the Service Portal, the Customer must first           register and open an account in Service Portal. In doing so, we may collect, store and use the following information:
 
-a)	Customer’s Name;
-b)	E-mail address.
-c)	Password Min. 8 Characters
-d)	Phone Number
-e)	NPWP
-f)	Upload NPWP
-g)	Upload KTP
+        a)	Customer’s Name;
+        b)	E-mail address.
+        c)	Password Min. 8 Characters
+        d)	Phone Number
+        e)	NPWP
+        f)	Upload NPWP
+        g)	Upload KTP
 
 All the information collected shall be stored in a database known as the Customer Database.
 
 
-b.	The Customer’s personal information will be used for the following purposes:
+    b.	The Customer’s personal information will be used for the following purposes:
 
 a)	to administer Service Portal;
 b)	to administer the Customer’s registered account;
