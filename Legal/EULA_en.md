@@ -54,8 +54,8 @@
 
 2.	In addition to any termination and restriction rights Lintasarta may have under this T&C, Lintasarta may terminate the Customer’s access to Service Portal without notice and in its own discretion in the occurrence of the following:
 
-    a.	The Customer may materially violate any notice posted from time to time on Service Portal, any applicable law, rule or regulation relating to the use of the Lintasarta           
-        Service; or
+    a.	The Customer may materially violate any notice posted from time to time on Service Portal, any applicable law, rule or regulation relating to the use of the Lintasarta
+    Service; or
 
     b.	Any law, regulation, or governmental action renders all or any portion of the Service Portal (or the Customer’s use of the Lintasarta Service) unlawful or impracticable;         or
 
@@ -63,8 +63,8 @@
 
     d.	If Lintasarta believes that the Customer has violated or acted inconsistently with the letter or spirit of this T&C.
 
-    e.	Customer is late to make payments for the Services as governed by this T&C, and Lintasarta shall not be liable for any risks arising from terminating and limiting access         
-        to the Service as a result.
+    e.	Customer is late to make payments for the Services as governed by this T&C, and Lintasarta shall not be liable for any risks arising from terminating and limiting access
+    to the Service as a result.
 
 3.	The Customer agrees that Lintasarta shall not be liable to the Customer or any third-party for any termination and restriction of the Customer’s access to Service Portal.
 
