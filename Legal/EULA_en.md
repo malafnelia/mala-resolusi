@@ -23,7 +23,7 @@
 
 ### II.	USE AND SECURITY
 
-1.	Information on Service Portal may contain technical inaccuracies or typographical errors. Information may be changed or updated without notice. Lintasarta may also make improvements and/or changes to Service Portal at any time without notice.
+    1.	Information on Service Portal may contain technical inaccuracies or typographical errors. Information may be changed or updated without notice. Lintasarta may also make     improvements and/or changes to Service Portal at any time without notice.
 
 2.	Service Portal may not be available to all devices which connect to the Internet. The Customer assumes all responsibility regarding the end-user equipment and software necessary to access Service Portal and assumes all risk associated therewith.
 
