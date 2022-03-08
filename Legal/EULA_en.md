@@ -36,8 +36,6 @@
 
 6.	Service Portal uses security standards are required by the Indonesian government and based on the prevailing law
 
-
-
 7.	Every detail of Lintasarta's products in the Service Portal will be included in the Product SLA and can be updated over time
 
 
