@@ -1,6 +1,5 @@
-<p align="center">
+<p align="center"><p>
 # TERMS & CONDITIONS
- <p>
 
 LINTASARTA CLOUDEKA USE AND ACCESS AGREEMENT
 
