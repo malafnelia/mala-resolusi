@@ -18,11 +18,11 @@
 
 7.	“Lintasarta Cloudeka” is a brand owned by Lintasarta.
 
-8.	10. The Service Portal is an aggregator platform where services are cataloged, marketed, fulfilled/provisioned, billed, monitored, and other functions are made available via the platform
+8.	The Service Portal is an aggregator platform where services are cataloged, marketed, fulfilled/provisioned, billed, monitored, and other functions are made available via the platform
 
 9.	“Services Partners” shall mean the cloud service providers company, affiliates, partners and/or Independent Software Vendor.
 
-II.	USE AND SECURITY
+### II.	USE AND SECURITY
 
 1.	Information on Service Portal may contain technical inaccuracies or typographical errors. Information may be changed or updated without notice. Lintasarta may also make improvements and/or changes to Service Portal at any time without notice.
 
@@ -41,17 +41,17 @@ II.	USE AND SECURITY
 7.	Every detail of Lintasarta's products in the Service Portal will be included in the Product SLA and can be updated over time
 
 
-III.	THE CUSTOMER’S CONDUCT
+### III.	THE CUSTOMER’S CONDUCT
 
 1.	The Customer agrees to use Service Portal only for lawful purposes and in accordance with this T&C.
 
-1.	The Customer agrees to notify Lintasarta immediately of any unauthorized use or any other breach of security at the end of each session. Lintasarta cannot and will not be liable for any loss or damage arising from the Customer’s failure to comply with this provision.
+2.	The Customer agrees to notify Lintasarta immediately of any unauthorized use or any other breach of security at the end of each session. Lintasarta cannot and will not be liable for any loss or damage arising from the Customer’s failure to comply with this provision.
 
-2.	The Customer agrees to abide by all applicable local, region, national and international laws and regulations and is solely responsible for all acts or omissions that occur under the Customer’s usage, including the content of the Customer’s communication through Lintasarta Service. Recognising the global nature of the Internet, the Customer agrees to comply with all local rules regarding online conduct. Specifically, the Customer agrees to comply with all applicable laws regarding on-line communication in the country in which the Customer resides.
+3.	The Customer agrees to abide by all applicable local, region, national and international laws and regulations and is solely responsible for all acts or omissions that occur under the Customer’s usage, including the content of the Customer’s communication through Lintasarta Service. Recognising the global nature of the Internet, the Customer agrees to comply with all local rules regarding online conduct. Specifically, the Customer agrees to comply with all applicable laws regarding on-line communication in the country in which the Customer resides.
 
-3.	The Customer may not use Service Portal in any manner that could damage, disable, overburden, or impair the Service Portal (or the network(s) connected to Lintasarta Service) or interfere with any other party’s use and enjoyment of Lintasarta Service. The Customer may not attempt to gain unauthorised access to the Service Portal, computer systems or networks connected to Service Portal, through hacking, password mining or any other means. The Customer may not obtain or attempt to obtain any materials or information through any means not intentionally made available through Service Portal.
+4.	The Customer may not use Service Portal in any manner that could damage, disable, overburden, or impair the Service Portal (or the network(s) connected to Lintasarta Service) or interfere with any other party’s use and enjoyment of Lintasarta Service. The Customer may not attempt to gain unauthorised access to the Service Portal, computer systems or networks connected to Service Portal, through hacking, password mining or any other means. The Customer may not obtain or attempt to obtain any materials or information through any means not intentionally made available through Service Portal.
 
-III.	TERMINATION/ACCESS RESTRICTION
+### IV.	TERMINATION/ACCESS RESTRICTION
 
 1.	Without limiting anything herein contained, Lintasarta reserves the right to terminate and restrict Service Portal at any time without notice and for any reason.
 
@@ -60,7 +60,7 @@ III.	TERMINATION/ACCESS RESTRICTION
 a.	The Customer may materially violate any notice posted from time to time on Service Portal, any applicable law, rule or regulation relating to the use of the Lintasarta Service; or
 
 b.	Any law, regulation, or governmental action renders all or any portion of the Service Portal (or the Customer’s use of the Lintasarta Service) unlawful or impracticable; or
-XV
+
 c.	The Customer’s use of Service Portal impairs or threatens to impair the integrity or functionality of Lintasarta network in any manner; or
 
 d.	If Lintasarta believes that the Customer has violated or acted inconsistently with the letter or spirit of this T&C.
@@ -69,7 +69,7 @@ e.	Customer is late to make payments for the Services as governed by this T&C, a
 
 3.	The Customer agrees that Lintasarta shall not be liable to the Customer or any third-party for any termination and restriction of the Customer’s access to Service Portal.
 
-V.	DISCLAIMER & LIMITATION OF LIABILITY
+### V.	DISCLAIMER & LIMITATION OF LIABILITY
 
 1.	Lintasarta makes no warranty that the Service Portal will meet the Customer’s requirement or the Portal service will be secure, timely, uninterrupted, free from errors, or that any data, content, information, software, or other materials accessible through the Portal Service. The Customer’s is responsible for implementing procedures and systematics to meet the client's needs for input and data output accuracy. All use of Service Portal is at the Customer’s own risk and the Customer is solely responsible for all damages resulting therefrom.
 
@@ -87,25 +87,25 @@ V.	DISCLAIMER & LIMITATION OF LIABILITY
 
 8.	Lintasarta shall not be liable for any direct or indirect losses suffered by Customer in connection with the use and use of the Services purchased by Customer through Service Portal. Any complaints relating to the Service will be escalated to the Service Partner.
 
-V.	INDEMNITY
+### VI.	INDEMNITY
 
 The customers agree to indemnify, defend and hold harmless Lintasarta, its officers, directors, employees, agents, resellers, shareholders, licensors, suppliers, and third-party information providers for the service and all losses, expenses, damages, and expenses, including attorney's fees, resulting from any violation by the Customer of this T&C or asserted by any third party due to or arising out of the Customer’s use of or conduct on Service Portal.
 
 
-VI.	LINKS TO THIRD PARTY SITES
+### VII.	LINKS TO THIRD PARTY SITES
 
 1.	Service Portal may contain links to third party websites (“Linked Websites”) and include advertisements. The Customer agrees that Linked Websites and advertisements are necessary for Lintasarta to provide Lintasarta Service. Such links and advertisements are provided to the Customer only as a convenience. Lintasarta shall not be responsible if the Linked Websites are not working appropriately. Lintasarta has no control over such Linked Websites and resources and shall not be responsible for the contents of any Linked Websites or advertisement, including without limitation any link contained in a Linked Websites and does not endorse any content, advertising, products, or other materials on or available from such Service Portal or resources. The Customer is responsible for viewing and abiding by the privacy statements and terms of use posted at the Linked Websites, and for taking precaution to ensure that whatever the Customer selects for his use is free of viruses, worms, Trojan horses and other items of a destructive nature.
 
 2.	Any dealings with third parties (including advertisers) over the Linked Websites or participation in promotions, including the delivery of and the payment for goods and services, and any other terms, conditions, warranties or representations associated with such dealings or promotions, is solely between the Customer and the advertiser, merchant or other third party. The Customer agrees that Lintasarta shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such Linked Website, Service Portal or resource. The purchase of any product or service from a merchant from a Linked Websites is a transaction solely between the Customer and that merchant, and any question or dispute that the Customer may have regarding any such product or service should be addressed directly to the responsible merchant. Lintasarta has no responsibility or liability for any merchant or the Customer’s relationship with such merchant.
 
-VIII.	DISCLOSURE AND CONFIDENTIALITY
+### VIII.	DISCLOSURE AND CONFIDENTIALITY
 
 1.	Lintasarta reserves the right to disclose any personal information about the Customer or the Customer’s use of Lintasarta Service and without the Customer’s prior permission ONLY IF Lintasarta in good faith, believes that such action is necessary to: (1) conform to legal requirements or comply with legal process; (2) protect and defend the rights or property of Lintasarta or its affiliated company; (3) enforce this T&C; or (4) act to protect the interests of its members or others.
 
 2.	Any non-personal information or material sent to Lintasarta by the Customer will generally NOT be treated as confidential.
 
 
-IX.	INTELLECTUAL PROPERTY RIGHTS
+### IX.	INTELLECTUAL PROPERTY RIGHTS
 
 1.	Lintasarta Cloudeka, all images, text, graphics, logos, sound, programs and any other material (“Content”) found on Lintasarta Cloudeka are protected by trademark, copyright, or other intellectual property laws and international treaties. Any commercial use of Lintasarta Cloudeka and Content found on Lintasarta Cloudeka is strictly prohibited, without Lintasarta express and prior written consent. Any reproduction or redistribution of Lintasarta Service, and Content found on Lintasarta Cloudeka, not in accordance with the T&C herein is expressly prohibited by law, and may result in severe civil and criminal penalties.
 
@@ -118,9 +118,9 @@ IX.	INTELLECTUAL PROPERTY RIGHTS
 
 5.	Additionally, other marks which appear on this site may be marks of third parties that are not affiliated with Lintasarta. Lintasarta and the Lintasarta Group do not control or endorse the content of third party websites.
 
-X.	LINTASARTA CLOUDEKA BUSINESS RULES
+### X.	LINTASARTA CLOUDEKA BUSINESS RULES
 
-4.	Customer database
+1.	Customer database
 
 a.	For the proper and intended purposes of Service Portal and use of Lintasarta Service provided by Lintasarta concerning the Service Portal, the Customer must first register and open an account in Service Portal. In doing so, we may collect, store and use the following information:
 
@@ -154,11 +154,11 @@ c.	We will use and share the Customer's personal information within the Lintasar
 
 d.	Except as expressly provided in this T&C, we will not divulge the Customer’s personal information to unrelated third parties. We will ensure that Lintasarta Cloudeka strictly follows the provisions of the Minister of Telecomunication and Information Regulation No. 20 of 2016 regarding Personal Data Protection and all applicable regulation in Indonesia.
 
-X.	SECURITY OF PERSONAL INFORMATION
+### XI.	SECURITY OF PERSONAL INFORMATION
 
 The Customer’s personal information will always be protected as:(a) access to the Customer’s account/personal information will only be accessible via the Customer’s personal password;(b) we utilize professional internet security protection software and other related products to ensure that there will be no unauthorized access to the Customer’s personal information.
 
-XI.	REGISTRATION & LOGIN
+### XII.	REGISTRATION & LOGIN
 
 1.	Every Customer identifier is defined by user ID (Email address) upon sign up and registration. Unless otherwise agreed, Lintasarta shall only accept Customer official corporate email address for this registration purpose. 
 
@@ -172,20 +172,20 @@ XI.	REGISTRATION & LOGIN
 
 5.	All registered Customers shall be bound by this T&C which is governed by the laws of Indonesia.
 
-XIII.	MODE OF PAYMENT
+### XIII.	MODE OF PAYMENT
 
 Will be regulated in provision which are an inseparable from the T&C.
 
 
 
-XIV.	SERVICE PROVISIONING
+### XIV.	SERVICE PROVISIONING
 
 Will be regulated in provision which are an inseparable from the T&C.
 
 
 
 
-XIV.	CUSTOMER SERVICE AND SUPPORT LINTASARTA CUSTOMER CARE
+### XV.	CUSTOMER SERVICE AND SUPPORT LINTASARTA CUSTOMER CARE
 
 1.	The Customer's contact is Lintasarta Customer Care, Through a ticketing mechanism that was found in the Service Portal
 
@@ -194,7 +194,7 @@ XIV.	CUSTOMER SERVICE AND SUPPORT LINTASARTA CUSTOMER CARE
 3.	The Customer may contact Lintasarta Customer Care via e-mail at support@Lintasarta.co.id, telephone +6221-75034556 or online self service via Service Portal website.
 
 
-XVI.	GENERAL
+### XVI.	GENERAL
 
 1.	This T&C is governed by the laws of Indonesia, The governing language of this terms and conditions and the correspondences shall be in Bahasa Indonesia and in English. The Indonesian version shall prevail in the event that there are contradiction and differences on the interpretation of the provision in this terms and conditions. without reference to conflict of laws principles. Any dispute between the Customer and Lintasarta regarding this T&C will be subject to the exclusive jurisdiction of the courts located in Indonesia and the Customer expressly waive all defences to jurisdiction. The Customer agrees that Lintasarta Cloudeka shall, for the purpose of determining jurisdiction and applicable law, be deemed to have originated and been provided by Lintasarta in and from Indonesia.
 
