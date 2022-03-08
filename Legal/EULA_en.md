@@ -17,7 +17,7 @@
 
 7.	“Lintasarta Cloudeka” is a brand owned by Lintasarta.
 
-8.	10. The Service Portal is an aggregator platform where services are cataloged, marketed, fulfilled/provisioned, billed, monitored, and other functions are made available via the platform
+8.	The Service Portal is an aggregator platform where services are cataloged, marketed, fulfilled/provisioned, billed, monitored, and other functions are made available via the  platform
 
 9.	“Services Partners” shall mean the cloud service providers company, affiliates, partners and/or Independent Software Vendor.
 
