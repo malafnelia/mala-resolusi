@@ -3,23 +3,14 @@
 ## LINTASARTA CLOUDEKA USE AND ACCESS AGREEMENT
 
 ### I.	ACCEPTANCE OF TERMS – GENERAL
-
 1.	The use of Lintasarta Cloudeka is subject to the terms and conditions (“T&C”) provided herein. By accessing and using Service Portal, the Customer agrees to be bound by this T&C and any modifications and amendments, which may be posted by Lintasarta on Service Portal from time to time.
-
 2.	The Customer agrees that Lintasarta may modify and amend this T&C at any time without notice. Unless explicitly stated otherwise, any new service introduced by Lintasarta, shall be subject to this T&C. All such notices are hereby incorporated by reference into the T&C. The Customer is responsible for regularly reviewing Lintasarta T&C posted on Service Portal. By continuing to use Service Portal, the Customer is deemed to have agreed to be bound by any modifications and amendments to this T&C.
-
 3.	The Customer can access Service Portal homepage and limitedly browse Service Portal without disclosing his personal data. Lintasarta Service and links found in the Service Portal may include links to third party websites and are subject to Section VII to this T&C.
-
 4.	“Customer” shall mean any legal entity or individual that has take all measures required by Lintasarta for registration of Service Portal and has account in Service Portal.
-
 5.	“Lintasarta” shall mean PT Aplikanusa Lintasarta and “Lintasarta Group” shall mean any subsidiary or affiliates of Lintasarta.
-
 6.	“Services” shall mean the information  and communication technology products in cloud service provided and made available to the Customer by Lintasarta and Services Partner.
-
 7.	“Lintasarta Cloudeka” is a brand owned by Lintasarta.
-
 8.	The Service Portal is an aggregator platform where services are cataloged, marketed, fulfilled/provisioned, billed, monitored, and other functions are made available via the platform
-
 9.	“Services Partners” shall mean the cloud service providers company, affiliates, partners and/or Independent Software Vendor.
 
 ### II.	USE AND SECURITY
